@@ -17,3 +17,15 @@ The code in this tutorial is written using Jupyter Notebook and is tested in Pyt
 This tutorial is released under MIT Licence, please feel free to use, copy, modify, merge, publish, and distribute.
 
 **This tutorial is citatable, the DOI number is shown in the README.md file of my GitHub repository: [data-visualization-in-python](https://github.com/tengjian-zou/data-visualization-in-python)**
+
+# Data visualization in Python.ipynb includes the following visualizations
+
+1. Word cloud.
+
+2. Social graphs.
+
+3. Map.
+
+4. Tree map.
+
+5. Bubble plot.
