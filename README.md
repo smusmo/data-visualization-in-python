@@ -18,7 +18,7 @@ This tutorial is released under MIT Licence, please feel free to use, copy, modi
 
 **This tutorial is citatable, the DOI number is shown in the README.md file of my GitHub repository: [data-visualization-in-python](https://github.com/tengjian-zou/data-visualization-in-python)**
 
-# Data visualization in Python.ipynb includes the following visualizations
+# "Data visualization in Python.ipynb" includes the following visualizations
 
 1. Word cloud.
 
