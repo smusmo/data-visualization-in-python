@@ -12,8 +12,8 @@ The data and code in this tutorial are prepared by Tengjian Zou. All the errors 
 
 Please feel free to contact Tengjian Zou (tengjian.sg@gmail.com) if you have any question about the code.
 
-The code in this tutorial is written using Jupyter Notebook and is executed in Python 2.7.15. 
+The code in this tutorial is written using Jupyter Notebook and is tested in Python 2.7.15. 
 
-This tutorial is released under MIT licence, please feel free to use, copy, modify, merge, publish, and distribute.
+This tutorial is released under MIT Licence, please feel free to use, copy, modify, merge, publish, and distribute.
 
 **This tutorial is citatable, the DOI number is shown in the README.md file of my GitHub repository: [data-visualization-in-python](https://github.com/tengjian-zou/data-visualization-in-python)**
