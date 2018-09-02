@@ -4,6 +4,8 @@ This tutorial includes the Python code that is used to generated the visualizati
 
 Title of the editorial: **A brief primer on data visualization opportunities in management research**
 
+Please click the **.ipynb** file to open and view the code and visualizations
+
 The data and code in this tutorial are prepared by Tengjian Zou. All the errors belong to Tengjian Zou.
 
 [Tengjian Zou](https://www.researchgate.net/profile/Tengjian_Zou) is a PhD candidate in Strategic Management and Organization in Singapore Management University.
