@@ -16,7 +16,9 @@ This tutorial is released under MIT Licence, please feel free to use, copy, modi
 
 The data used to generated the visualizations in this tutorial is available in the data folder of this repository [data-visualization-in-python](https://github.com/tengjian-zou/data-visualization-in-python).
 
-**This tutorial is citable, the DOI number is shown in the README.md file of my GitHub repository: [data-visualization-in-python](https://github.com/tengjian-zou/data-visualization-in-python)**
+**This tutorial can be ciated as:**
+
+Tengjian Zou. (2018, September 3). Data visualization in Python (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1407808
 
 # About the coder
 
