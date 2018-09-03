@@ -18,7 +18,7 @@ The data used to generated the visualizations in this tutorial is available in t
 
 # About the coder
 
-[Tengjian Zou](https://www.researchgate.net/profile/Tengjian_Zou) is a PhD candidate in Strategic Management and Organization in Singapore Management University.
+[Tengjian Zou](https://scholar.google.com.sg/citations?user=arvv8voAAAAJ&hl=en&oi=ao) is a PhD candidate in Strategic Management and Organization in Singapore Management University.
 
 Please feel free to contact Tengjian Zou (tengjian.sg@gmail.com) if you have any question about the code.
 
