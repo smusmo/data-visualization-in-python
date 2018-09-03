@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/147058561.svg)](https://zenodo.org/badge/latestdoi/147058561)
+
 # data-visualization-in-python
 
 This tutorial includes the Python code that is used to generated the visualizations in Academy of Management Journal (AMJ) editorial written by Gokhan Ertug, Gruber Marc, Anthony Nyberg, and H Kevin Steensma.
